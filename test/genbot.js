@@ -1,10 +1,10 @@
-'use strict';
-
 var assert = require("assert");
 var exec = require('child_process').exec;
 var path = require('path');
 
 describe('genbot bin', function(){
+    'use strict';
+
 	var cmd = 'node '+path.join(__dirname, '../bin/genbot')+' ';
 	console.log(cmd);
 
