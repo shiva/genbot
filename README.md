@@ -1,6 +1,8 @@
 genbot
 =============
 
+[![Build Status](https://travis-ci.org/shiva/genbot.svg?branch=master)](https://travis-ci.org/shiva/genbot)
+
 # Description
 
 A programmable content generator bootstrap
