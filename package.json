@@ -1,0 +1,29 @@
+{
+  "name": "genbot",
+  "version": "0.0.0",
+  "description": "A programmable content generator bootstrap",
+  "private": true,
+  "bin": {
+    "genbot": "./bin/genbot"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": {
+    "name": "Shiva",
+    "email": "shiv@shiv.me",
+    "url": "https://github.com/shiva"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiva/genbot"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/shiva/genbot/issues",
+  "dependencies": {
+    "commander": "~2.0.0",
+    "autocmdr": "~0.0.4"
+  },
+  "devDependencies": {
+  }
+}
