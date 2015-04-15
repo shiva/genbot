@@ -5,3 +5,5 @@ sudo: false
 cache:
     directories:
         - node_modules
+notifications:
+    slack: friedsilicon:3GVMf1aqtsnaV8Hrc9FIB28X
